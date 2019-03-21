@@ -23,5 +23,5 @@ spec:
     args: 
     - 'apply'
     - '-f'
-- '/workspace/git-source/config'
+    - '/workspace/git-source/config'
 
